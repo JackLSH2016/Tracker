@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LoginController.h
 //  Tracker
 //
 //  Created by admin on 21/3/2016.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LoginController : UIViewController
 
 @end
-
